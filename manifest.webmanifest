@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "קו ישר — פלס ומצפן",
+  "short_name": "קו ישר",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f1e8",
+  "theme_color": "#162b23",
+  "description": "פלס דו־צירי ומצפן מחיישני הטלפון",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
